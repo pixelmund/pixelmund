@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there im Julian (24/He/Him)👋
+
+I work as an Full-Stack Engineer at an advertising agency in Germany.
 
 <!--
 **pixelmund/pixelmund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
