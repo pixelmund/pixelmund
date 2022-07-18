@@ -1,8 +1,8 @@
-### Hi there im Julian (24/He/Him)👋
+### Hi there im Julian (25/He/Him)👋
 
 I work as a full-stack engineer for an advertising agency in Germany. I also like to contribute to open source.
 
-
+![](https://komarev.com/ghpvc/?username=pixelmund&style=flat-square)
 
 
 
